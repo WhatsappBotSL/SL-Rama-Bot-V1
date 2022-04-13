@@ -1,5 +1,5 @@
 module.exports = {
-    ALPHA_OWNER: '94784506970', // Trex Team - Alpha Owner
-    TREX_TEAM: '94771039631,94784506970,94716184907,94711421243,94771251788', // Team - Trex TEAM
-    TREX_OWNER: '94771039631' // Hirush Rukshan - Trex Owner --> For The Friendship And co Owner in Alpha 
+    RAMA_OWNER: '94712563049', // RAMA Team - Bot Owner
+    DEVELOPER_TEAM: '94770532534,94723502906,94712563049,94712563049,94770532534', // Team - Rama TEAM
+    ALL_OWNER: '94770532534' // Sadew Lochana - Rama Owner --> For The Friendship And co Owner in Rama 
 };
