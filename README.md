@@ -136,8 +136,8 @@ HAVE A FUN!
 										<tbody>
 											<tr>
 												<td><a href="https://www.youtube.com/channel/UCAafO2_JLzGHl_Le7BTkY3A/featured"><img src="https://telegra.ph/file/aeda8f2eaafd13392f1f9.jpg" width="200" height="200" alt="DM bro"></a></td>
-												<td><a href="https://wa.me/94785972996"><img src="https://telegra.ph/file/dff347f2fcfcf64434085.jpg" width="200" height="200" alt="Pasiya"></a></td>
-												<td><a href="https://wa.me/94703164788"><img src="https://telegra.ph/file/3d995871d0857d7475495.jpg" width="200" height="200" alt="paraveen"></a></td>
+												<td><a href="https://wa.me/94770532534"><img src="https://te.legra.ph/file/8520843c3c41371e4e935.jpg" width="200" height="200" alt="Pasiya"></a></td>
+												<td><a href="https://wa.me/94712563049"><img src="https://te.legra.ph/file/8520843c3c41371e4e935.jpg" width="200" height="200" alt="paraveen"></a></td>
 											</tr>
 										</tbody>
 									</table>
